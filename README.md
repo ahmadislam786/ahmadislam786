@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadislam786&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadislam786" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **react.js and Node.js**
 
 - 📫 How to reach me **ahmadislam2211@gmail.com**
 
