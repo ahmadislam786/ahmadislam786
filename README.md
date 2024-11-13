@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadislam786&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadislam786" /> </p>
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **Next.js and Node.js**
 - 📫 How to reach me: **ahmadislam2211@gmail.com**
 - ⚡ Fun fact: **I am funny 😂**
 <br/>
-
+<br/>
 ---
 
 ## 🛠 My Skill Set
