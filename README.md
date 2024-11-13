@@ -9,14 +9,6 @@
 - 📫 How to reach me: **ahmadislam2211@gmail.com**
 - ⚡ Fun fact: **I am funny 😂**
 <br/>
----
-
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmadislam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad islam" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
