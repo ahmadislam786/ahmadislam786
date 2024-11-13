@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React.js and Node.js**
 - 📫 How to reach me: **ahmadislam2211@gmail.com**
 - ⚡ Fun fact: **I am funny 😂**
-
+<br/>
 ---
 
 ### 🔗 Connect with me:
@@ -28,7 +28,6 @@
       <td align="center">
         <h3>Frontend</h3>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
