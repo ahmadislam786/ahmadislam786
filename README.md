@@ -10,6 +10,7 @@
 - ⚡ Fun fact: **I am funny 😂**
 <br/>
 <br/>
+<br/>
 ---
 
 ## 🛠 My Skill Set
