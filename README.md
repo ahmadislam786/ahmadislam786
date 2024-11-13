@@ -57,11 +57,50 @@
   </a>
 </p>
 
+## 🛠 My Skill Set
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Frontend</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+      </td>
+      <td align="center">
+        <h3>Backend</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+      </td>
+      <td align="center">
+        <h3>Connect with me</h3>
+        <a href="https://www.linkedin.com/in/ahmadislam" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
+        </a>
+        <a href="https://github.com/ahmadislam786" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadislam786&show_icons=true&locale=en&layout=compact" alt="ahmadislam786" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadislam786&show_icons=true&locale=en" alt="ahmadislam786" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadislam786&show_icons=true&locale=en" alt="ahmadislam786" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadislam786&" alt="ahmadislam786" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadislam786&" alt="ahmadislam786" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadislam786&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadislam786" />
+</p>
