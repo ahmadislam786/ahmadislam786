@@ -20,7 +20,7 @@
 <!-- STATUS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=ahmadislam786&label=👁️+Profile+Views&color=7B2FBE&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ahmadislam786?label=🤝+Followers&style=for-the-badge&color=00FFB3&labelColor=0d0221" />
+<img src="https://img.shields.io/github/followers/ahmadislam786?label=Followers&style=for-the-badge&color=00FFB3&labelColor=0d0221&logo=github&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/⚡_Status-Open_to_Collaborate-brightgreen?style=for-the-badge&labelColor=0d0221" />
 &nbsp;
